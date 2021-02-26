@@ -1,6 +1,4 @@
 # First-Try-Project
-Hi Everyone!
-I'm Bhawaansh, a student trying to learn about git hub!
 <!DOCTYPE html>
 <html lang="en">
 
@@ -22,7 +20,7 @@ I'm Bhawaansh, a student trying to learn about git hub!
             display: grid;
             place-content: center;
             text-align: center;
-            background-color: wheat;
+            background-color: green;
         }
 
         h1 {
@@ -38,10 +36,10 @@ I'm Bhawaansh, a student trying to learn about git hub!
         }
     </style>
 </head>
-
+Hi, I'm Bhawaansh!
 <body>
     <h1>
-        Hello GitHub
+        Hello Everyone
     </h1>
 
 
