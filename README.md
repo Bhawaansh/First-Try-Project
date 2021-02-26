@@ -46,9 +46,3 @@ Hi, I'm Bhawaansh!
 
 
 
-    <footer>
-        GitHub Workshop
-    </footer>
-</body>
-
-</html>
